@@ -1,6 +1,6 @@
 # Everywhere website
 
-Console for the [trvalin.pro][1] webapp.
+Console for the [travelin.pro][1] webapp.
 
 ## Why?
 
